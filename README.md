@@ -1,2 +1,2 @@
 
-https://tugrul95.netlify.app/
+- https://tugrul95.netlify.app/
