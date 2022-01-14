@@ -8,16 +8,6 @@ const userData = {
   address: "Turkey",
   projects: [
     {
-      title: "Recipies",
-      link: "https://recipe-73047.web.app/",
-      imgUrl: "/recipies.png",
-    },
-    {
-      title: "Memory Game",
-      link: "https://beyin-egzersizi.netlify.app/",
-      imgUrl: "/memory-game.png",
-    },
-    {
       title: "E-commerce App",
       link: "https://my-store-ecommerce.netlify.app/",
       imgUrl: "/ecommerce.png",
@@ -26,18 +16,23 @@ const userData = {
       title: "Bikers Corner",
       link: "https://bikers-corner.netlify.app/",
       imgUrl: "/bikers-corner.png",
+    },
+    {
+      title: "VIP Clinic",
+      link: "https://tugrul95.netlify.app/",
+      imgUrl: "/vip-clinic.png",
     }
   ],
   about: {
     title:
-      "I'm a front-end developer that loves building user interfaces and web applications that impact millions of lives",
+      "I'm a front-end developer who loves building user interfaces and web applications",
     description: [
-      `I’m a data scientist turned front end developer from Turkey.`,
+      `I’m a front end developer from Turkey.`,
       `I am currently joining Pazarama React Bootcamp.`,
       `I’m passionate about creating fast and responsive user interfaces.`,
     ],
     currentProject: "Pazarama-React-Bootcamp",
-    currentProjectUrl: "https://patika.dev",
+    currentProjectUrl: "",
   },
   experience: [
     {
