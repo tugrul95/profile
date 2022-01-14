@@ -1,2 +1,1 @@
-https://tgokbel-portfolio.netlify.app/
-
+https://tugrul95.netlify.app/
