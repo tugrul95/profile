@@ -31,22 +31,28 @@ const userData = {
       `I am currently joining Pazarama React Bootcamp.`,
       `I’m passionate about creating fast and responsive user interfaces.`,
     ],
-    currentProject: "Pazarama-React-Bootcamp",
+    currentProject: "",
     currentProjectUrl: "",
   },
   experience: [
     {
+      title: "iOS Bootcamp Student",
+      company: "Innova",
+      year: "2022",
+      desc: "",
+    },
+    {
       title: "React Bootcamp Student",
       company: "Pazarama",
       year: "2021",
-      desc: "Bootcamp is a highly selective education program which accepts people based on javascript skills. During bootcamp I improved my React skills.",
+      desc: "",
     },
     {
       title: "Data Science Intern",
       company: "Pivony Inc.",
       year: "2021",
       companyLink: "https://pivony.com",
-      desc: "Created intent classification machine learning model for Turkish based on customer reviews.",
+      desc: "Created intent classification machine learning model based on customer reviews.",
     },
     {
       title: "Intern",
@@ -59,7 +65,7 @@ const userData = {
       company: "CEITEC",
       year: "2019",
       companyLink: "https://www.ceitec.eu/",
-      desc: "I collaborated nAChR project at Central European Institute of Technology(CEITEC). I was creating database with extracting data from pdb and converting it to xml by using python. Also I helped web design and implementation. It is more easy and quick to obtain data on nAChR instead of time consuming literature research. There are annotations of key elements and binding sites and 3D visual models of receptors",
+      desc: "Developed a web application which visualizes 3D structure of molecules. https://crocodile.ncbr.muni.cz/Apps/NAChRDB/index-responsive.html",
     },
     {
       title: "Graduation",
@@ -69,7 +75,7 @@ const userData = {
     },
   ],
   resumeUrl:
-    "https://drive.google.com/file/d/1eY7cC0NpR4mUnaXSpSL_GtuqvNjHt-H2/view?usp=sharing",
+    "",
   socialLinks: {
     facebook: "https://www.facebook.com/tugrul.gokbel/",
     twitter: "https://twitter.com/TurulGkbel",
